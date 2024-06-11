@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Poonam Raghuwanshi
 - 👀 I’m interested in exploring new technologies and learning something new everyday
 - 🌱 I’m currently learning  web development 
-- 💞️ I’m looking to collaborate on various technologies in the feild of tech.
+- 💞️ I’m looking to collaborate and connect ...
   
 
 <!---
